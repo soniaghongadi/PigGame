@@ -1,1 +1,1 @@
-# GitHubTrial
+# Game developed in JS
